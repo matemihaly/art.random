@@ -1,0 +1,10 @@
+{
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "/Users/matemihaly/.vscode/extensions/samplavigne.p5-vscode-1.2.4/p5types/global.d.ts",
+    "src/sketch.js",
+    "src/layers.js",
+    "src/helpers.js"
+  ]
+}
